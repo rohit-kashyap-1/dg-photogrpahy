@@ -1,0 +1,27 @@
+homepage
+	sliders
+	about me 
+	categories
+		venues(3-4 photos) in slider
+			view more
+		social events / parties
+			view more
+		corporate(just for temp)
+			view more
+		celebritites(tmp)
+			view more
+		production
+			
+	seasonal mini sessions(references will be provided)
+		ref:slot booking (in future)
+		spring
+		autumn
+		cristmas
+		Diwali for example
+	Holiday photographer
+	testimonials
+	contact
+------------------------------------------
+
+			
+
